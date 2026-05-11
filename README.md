@@ -1,5 +1,6 @@
-# PriVi-Elite SSH Security Auditor v4.0
+# PriVi-Elite SSH Security Auditor v1.0
 ### SSH Configuration & Hardening Analysis Suite
+
 **Developed by Prince Ubebe | [PriViSecurity Solutions](https://github.com/Privis40)**
 
 ---
