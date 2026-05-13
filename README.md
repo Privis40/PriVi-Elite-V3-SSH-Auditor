@@ -1,4 +1,4 @@
-# PriVi-Elite SSH Security Auditor v1.0
+# PriVi-SSHAudit v1.0
 ### SSH Configuration & Hardening Analysis Suite
 
 **Developed by Prince Ubebe | [PriViSecurity Solutions](https://github.com/Privis40)**
@@ -17,7 +17,7 @@ If you are conducting a professional engagement, ensure you hold a signed **Lett
 
 ## What It Does
 
-PriVi-Elite SSH Security Auditor is a professional SSH hardening analysis tool that audits the **configuration and cryptographic posture** of an SSH server — without attempting authentication or causing disruption to the target system.
+PriVi-SSHAudit is a professional SSH hardening analysis tool that audits the **configuration and cryptographic posture** of an SSH server — without attempting authentication or causing disruption to the target system.
 
 It is designed for:
 - Penetration testers conducting authorized SSH infrastructure assessments
@@ -65,8 +65,8 @@ sudo yum install nmap
 ## Installation
 
 ```bash
-git clone https://github.com/Privis40/PriVi-Elite-V3-SSH-Auditor.git
-cd PriVi-Elite-V3-SSH-Auditor
+git clone https://github.com/Privis40/PriVi-SSHAudit.git
+cd PriVi-Elite-SSHAudit
 pip install -r requirements.txt
 ```
 
