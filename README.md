@@ -1,7 +1,7 @@
 # PriVi-SSHAudit v1.0
 ### SSH Configuration & Hardening Analysis Suite
 
-**Developed by Prince Ubebe | [PriViSecurity Solutions](https://github.com/Privis40)**
+**Developed by Prince Ubebe | [PriViSecurity](https://github.com/Privis40)**
 
 ---
 
