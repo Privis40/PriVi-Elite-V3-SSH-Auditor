@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![PriVi-SSHAudit Dashboard]Elite.PNG)
+![PriVi-SSHAudit Dashboard](Elite.PNG)
 
 </div>
 
